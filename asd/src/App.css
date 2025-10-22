@@ -1,0 +1,66 @@
+.btn {
+  padding: 11px 30px;
+  border-radius: 10px;
+  background: #227EDA;
+  color: white;
+  border: none;
+}
+
+
+
+.div {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+
+}
+
+.div img {
+  width: 70px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.name {
+  font-size: 20px;
+  margin: 0 0 4px;
+  font-weight: bold;
+  color: #000;
+}
+
+.author {
+  margin: 0 0 10px;
+  color: #888;
+  font-size: 14px;
+}
+
+.p2 {
+  margin: 0;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+}
+
+
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.dsp {
+  width: 550px;
+  height: 500px;
+  background-color: #227EDA;
+  
+  position: absolute; 
+  top: 100px;
+  left: 35%;
+    
+}
